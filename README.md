@@ -1,5 +1,7 @@
 # Hi, I'm Cullen Schrock
 I'm a computer science student at Grace College in Winona Lake, IN, concentrating in cybersecurity and AI. 
+Right now, I’m building a foundation in full-stack development while also exploring how data and AI can solve real-world problems.  
+I enjoy working on projects that challenge me to connect what I’ve learned in class with practical applications, whether that’s designing a database, experimenting with cybersecurity tools, or building simple web applications. 
 
 ## Technologies & Tools
 - **Languages:** Python, Java, C++, JavaScript, SQL  
