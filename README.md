@@ -3,5 +3,5 @@ I'm a computer science student at Grace College in Winona Lake, IN, concentratin
 
 ## Technologies & Tools
 - **Languages:** Python, Java, C++, JavaScript, SQL  
-- **Web Development:** HTML, CSS, React, Node.js  
+- **Web Development:** HTML, CSS
 - **Other Tools:** Git & GitHub, VS Code, Linux, Databricks 
