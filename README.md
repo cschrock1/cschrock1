@@ -20,4 +20,4 @@ I enjoy working on projects that challenge me to connect what I’ve learned in 
 
 ## Connect with Me
 - GitHub: [@cschrock1](https://github.com/cschrock1)  
-- LinkedIn: [Cullen Schrock](www.linkedin.com/in/cullen-schrock)
+- LinkedIn: [Cullen Schrock]([https://www.linkedin.com/in/cullen-schrock])
